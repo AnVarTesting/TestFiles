@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite id="4926" name="Test Cases group 2" >
+<node_order><![CDATA[3]]></node_order>
+<details><![CDATA[<p>Test cases created by group 2 formed by Andres Vargas&nbsp;and Francisco Ch&aacute;vez</p>
+]]></details> 
+<testsuite id="4991" name="Home page" >
+<node_order><![CDATA[1]]></node_order>
+<details><![CDATA[]]></details> 
+<testsuite id="6333" name="API" >
+<node_order><![CDATA[1]]></node_order>
+<details><![CDATA[]]></details> 
+
+<testcase internalid="6356" name="Home page &gt; Verify that publication can be search">
+	<node_order><![CDATA[1000]]></node_order>
+	<externalid><![CDATA[400]]></externalid>
+	<version><![CDATA[1]]></version>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+
+</testcase>
+</testsuite>
+<testcase internalid="5031" name="Home page &gt; Verify that all buttons are working (specific redirect).">
+	<node_order><![CDATA[1001]]></node_order>
+	<externalid><![CDATA[12]]></externalid>
+	<version><![CDATA[1]]></version>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[3]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+
+</testcase>
+
+<testcase internalid="5044" name="Home &gt; Navigation verification (compatibility web browsers)">
+	<node_order><![CDATA[1002]]></node_order>
+	<externalid><![CDATA[15]]></externalid>
+	<version><![CDATA[1]]></version>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+
+</testcase>
+</testsuite><testsuite id="4993" name="Sign up Page" >
+<node_order><![CDATA[2]]></node_order>
+<details><![CDATA[]]></details> 
+<testsuite id="6307" name="API" >
+<node_order><![CDATA[1]]></node_order>
+<details><![CDATA[]]></details> 
+
+<testcase internalid="6305" name="Sign Up &gt; Verify that can be created a new user account by API">
+	<node_order><![CDATA[0]]></node_order>
+	<externalid><![CDATA[385]]></externalid>
+	<version><![CDATA[1]]></version>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+
+</testcase>
+</testsuite>
+<testcase internalid="5064" name="Sign up &gt; Verify that the sign up form is accessible">
+	<node_order><![CDATA[1000]]></node_order>
+	<externalid><![CDATA[21]]></externalid>
+	<version><![CDATA[1]]></version>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[1]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+
+</testcase>
+
+<testcase internalid="5068" name="Sign up &gt; Verify that mandatory fields are clearly marked in Sign Up form">
+	<node_order><![CDATA[1001]]></node_order>
+	<externalid><![CDATA[23]]></externalid>
+	<version><![CDATA[1]]></version>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+
+</testcase>
+
+<testcase internalid="5074" name="Sign up &gt; Validate input data">
+	<node_order><![CDATA[1002]]></node_order>
+	<externalid><![CDATA[26]]></externalid>
+	<version><![CDATA[1]]></version>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+
+</testcase>
+
+<testcase internalid="5082" name="Sign up &gt; Test form submission">
+	<node_order><![CDATA[1003]]></node_order>
+	<externalid><![CDATA[30]]></externalid>
+	<version><![CDATA[1]]></version>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+
+</testcase>
+
+<testcase internalid="5100" name="Sign up &gt; Check password strength requirements">
+	<node_order><![CDATA[1004]]></node_order>
+	<externalid><![CDATA[39]]></externalid>
+	<version><![CDATA[1]]></version>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+
+</testcase>
+
+<testcase internalid="6151" name="Sign up &gt; Verify after filling all mandatory fields with valid data can be created a new account.">
+	<node_order><![CDATA[1005]]></node_order>
+	<externalid><![CDATA[346]]></externalid>
+	<version><![CDATA[1]]></version>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+
+</testcase>
+</testsuite><testsuite id="4995" name="Sign in page" >
+<node_order><![CDATA[3]]></node_order>
+<details><![CDATA[]]></details> 
+
+<testcase internalid="5199" name="Sign in &gt; Verify that the sign in form is accessible.">
+	<node_order><![CDATA[1000]]></node_order>
+	<externalid><![CDATA[83]]></externalid>
+	<version><![CDATA[1]]></version>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+
+</testcase>
+
+<testcase internalid="5203" name="Sign in &gt; Check required fields">
+	<node_order><![CDATA[1001]]></node_order>
+	<externalid><![CDATA[85]]></externalid>
+	<version><![CDATA[1]]></version>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+
+</testcase>
+
+<testcase internalid="5207" name="Sign in &gt; Test password authentication">
+	<node_order><![CDATA[1002]]></node_order>
+	<externalid><![CDATA[87]]></externalid>
+	<version><![CDATA[1]]></version>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+
+</testcase>
+
+<testcase internalid="5209" name="Sign in  &gt; Test log in with Facebook">
+	<node_order><![CDATA[1003]]></node_order>
+	<externalid><![CDATA[88]]></externalid>
+	<version><![CDATA[1]]></version>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+
+</testcase>
+
+<testcase internalid="5217" name="Sign in &gt; Test log in with Google">
+	<node_order><![CDATA[1004]]></node_order>
+	<externalid><![CDATA[92]]></externalid>
+	<version><![CDATA[1]]></version>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+
+</testcase>
+
+<testcase internalid="5223" name="Sign in &gt; Forgot password link">
+	<node_order><![CDATA[1005]]></node_order>
+	<externalid><![CDATA[95]]></externalid>
+	<version><![CDATA[1]]></version>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+
+</testcase>
+
+<testcase internalid="6515" name="Sign in &gt; Verify that users can't access using invalid credentials">
+	<node_order><![CDATA[1006]]></node_order>
+	<externalid><![CDATA[432]]></externalid>
+	<version><![CDATA[1]]></version>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+
+</testcase>
+
+<testcase internalid="6519" name="Sign in &gt; Verify that users can't access with blank user and password">
+	<node_order><![CDATA[1007]]></node_order>
+	<externalid><![CDATA[434]]></externalid>
+	<version><![CDATA[1]]></version>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+
+</testcase>
+</testsuite><testsuite id="5815" name="Profile" >
+<node_order><![CDATA[4]]></node_order>
+<details><![CDATA[]]></details> 
+<testsuite id="6327" name="API" >
+<node_order><![CDATA[1]]></node_order>
+<details><![CDATA[]]></details> 
+
+<testcase internalid="6330" name="General Profile &gt; Verify that email can be verified by API">
+	<node_order><![CDATA[1000]]></node_order>
+	<externalid><![CDATA[392]]></externalid>
+	<version><![CDATA[1]]></version>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+
+</testcase>
+</testsuite>
+<testcase internalid="6111" name="Profile &gt;  General information fields">
+	<node_order><![CDATA[1000]]></node_order>
+	<externalid><![CDATA[333]]></externalid>
+	<version><![CDATA[1]]></version>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+
+</testcase>
+
+<testcase internalid="6113" name="Profile &gt; Valid social links">
+	<node_order><![CDATA[1001]]></node_order>
+	<externalid><![CDATA[334]]></externalid>
+	<version><![CDATA[1]]></version>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+
+</testcase>
+
+<testcase internalid="6115" name="Profile  &gt; Invalid social links">
+	<node_order><![CDATA[1002]]></node_order>
+	<externalid><![CDATA[335]]></externalid>
+	<version><![CDATA[1]]></version>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+
+</testcase>
+
+<testcase internalid="6153" name="General Profile &gt; Verify if mapbox can saves ubications by clicking Save changes button.">
+	<node_order><![CDATA[1003]]></node_order>
+	<externalid><![CDATA[347]]></externalid>
+	<version><![CDATA[1]]></version>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+
+</testcase>
+
+<testcase internalid="6155" name="General Profile &gt; Verify if languages can be added by clicking &quot;+&quot; button">
+	<node_order><![CDATA[1004]]></node_order>
+	<externalid><![CDATA[348]]></externalid>
+	<version><![CDATA[1]]></version>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+
+</testcase>
+
+<testcase internalid="6161" name="General Profile &gt; Verify if no languages can be added by clicking &quot;+&quot; button">
+	<node_order><![CDATA[1005]]></node_order>
+	<externalid><![CDATA[350]]></externalid>
+	<version><![CDATA[1]]></version>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+
+</testcase>
+
+<testcase internalid="6165" name="General Profile &gt; Verify if languages can be easily edited.">
+	<node_order><![CDATA[1006]]></node_order>
+	<externalid><![CDATA[351]]></externalid>
+	<version><![CDATA[1]]></version>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+
+</testcase>
+
+<testcase internalid="6168" name="General Profile &gt; Verify that can be added a profile picture by Drag and drop any image file.">
+	<node_order><![CDATA[1007]]></node_order>
+	<externalid><![CDATA[352]]></externalid>
+	<version><![CDATA[1]]></version>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+
+</testcase>
+
+<testcase internalid="6172" name="General Profile &gt; Verify that can be added a profile picture by browsing a image file.">
+	<node_order><![CDATA[1008]]></node_order>
+	<externalid><![CDATA[354]]></externalid>
+	<version><![CDATA[1]]></version>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+
+</testcase>
+
+<testcase internalid="6179" name="General Profile &gt; Verify that profile picture can be added from Facebook account.">
+	<node_order><![CDATA[1009]]></node_order>
+	<externalid><![CDATA[356]]></externalid>
+	<version><![CDATA[1]]></version>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+
+</testcase>
+
+<testcase internalid="6181" name="General Profile &gt; Verify that profile picture can be added from Instagram account.">
+	<node_order><![CDATA[1010]]></node_order>
+	<externalid><![CDATA[357]]></externalid>
+	<version><![CDATA[1]]></version>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+
+</testcase>
+
+<testcase internalid="6186" name="General Profile &gt; Verify that profile picture can be added from Google Drive.">
+	<node_order><![CDATA[1011]]></node_order>
+	<externalid><![CDATA[359]]></externalid>
+	<version><![CDATA[1]]></version>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+
+</testcase>
+
+<testcase internalid="6197" name="General Profile &gt; Verify that profile picture can be deleted.">
+	<node_order><![CDATA[1012]]></node_order>
+	<externalid><![CDATA[364]]></externalid>
+	<version><![CDATA[1]]></version>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+
+</testcase>
+
+<testcase internalid="6207" name="General Profile &gt; Verify that valid files are accepted as profile picture.">
+	<node_order><![CDATA[1013]]></node_order>
+	<externalid><![CDATA[368]]></externalid>
+	<version><![CDATA[1]]></version>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+
+</testcase>
+
+<testcase internalid="6209" name="General Profile &gt; Verify that invalid files are rejected as profile picture.">
+	<node_order><![CDATA[1014]]></node_order>
+	<externalid><![CDATA[369]]></externalid>
+	<version><![CDATA[1]]></version>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+
+</testcase>
+
+<testcase internalid="6214" name="General Profile &gt; Verify that full account name is displayed in the left pane below profile picture.">
+	<node_order><![CDATA[1015]]></node_order>
+	<externalid><![CDATA[370]]></externalid>
+	<version><![CDATA[1]]></version>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+
+</testcase>
+
+<testcase internalid="6216" name="General Profile &gt; Verify that Profile button in left menu redirects to General Profile page.">
+	<node_order><![CDATA[1016]]></node_order>
+	<externalid><![CDATA[371]]></externalid>
+	<version><![CDATA[1]]></version>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+
+</testcase>
+
+<testcase internalid="6218" name="General Profile &gt; Verify that Message button in left menu redirects to Chats page.">
+	<node_order><![CDATA[1017]]></node_order>
+	<externalid><![CDATA[372]]></externalid>
+	<version><![CDATA[1]]></version>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+
+</testcase>
+
+<testcase internalid="6220" name="General Profile &gt; Verify that Settings button in left menu redirects to Account Security page.">
+	<node_order><![CDATA[1018]]></node_order>
+	<externalid><![CDATA[373]]></externalid>
+	<version><![CDATA[1]]></version>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+
+</testcase>
+
+<testcase internalid="6237" name="General Profile &gt; Settings &gt; Verify that Reset Password button sends a link to the email">
+	<node_order><![CDATA[1019]]></node_order>
+	<externalid><![CDATA[381]]></externalid>
+	<version><![CDATA[1]]></version>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+
+</testcase>
+</testsuite><testsuite id="6508" name="Logout" >
+<node_order><![CDATA[5]]></node_order>
+<details><![CDATA[]]></details> 
+
+<testcase internalid="6509" name="Logout &gt; Verify that the user can log out from iMentor">
+	<node_order><![CDATA[1000]]></node_order>
+	<externalid><![CDATA[429]]></externalid>
+	<version><![CDATA[1]]></version>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+
+</testcase>
+
+<testcase internalid="6513" name="Logout &gt; Verify that the user can't access with &quot;back&quot; after a successfully log out.">
+	<node_order><![CDATA[1001]]></node_order>
+	<externalid><![CDATA[431]]></externalid>
+	<version><![CDATA[1]]></version>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+
+</testcase>
+</testsuite></testsuite>
